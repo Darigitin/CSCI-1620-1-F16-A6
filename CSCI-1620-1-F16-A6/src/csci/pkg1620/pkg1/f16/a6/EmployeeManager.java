@@ -1,3 +1,5 @@
+package csci.pkg1620.pkg1.f16.a6;
+
 // Name     : Michael Monical
 // Class    : 1620-001
 // Program #    : 5
